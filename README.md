@@ -1,4 +1,8 @@
 toy-problems-js
 ===============
 
-Solutions to toy Problems
+Remove "falsy" values from an array 
+http://jsfiddle.net/kcmLh/30/
+
+
+
